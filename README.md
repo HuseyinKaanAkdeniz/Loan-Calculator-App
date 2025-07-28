@@ -29,7 +29,7 @@ This project is a Loan Calculator App that allows users to easily calculate thei
 
 ## Screenshots
 
-![Uygulama Görseli](Loan-Calculator-App\ETC.png")
+(ETC.png")
 
 ## Built With
 
