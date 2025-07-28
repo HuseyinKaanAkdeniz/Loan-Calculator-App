@@ -29,7 +29,7 @@ This project is a Loan Calculator App that allows users to easily calculate thei
 
 ## Screenshots
 
-[View Figma Design](https://figma.com/design/idhNKw4j3KDGEMkRkhUoYP/%F0%9F%A4%99-iPhone-15-Pro-3D-Mockups--Community-?node-id=206-2&m=dev&t=2CmJbvsGEyfni8Vk-1)
+https://figma.com/design/idhNKw4j3KDGEMkRkhUoYP/%F0%9F%A4%99-iPhone-15-Pro-3D-Mockups--Community-?node-id=206-2&m=dev&t=2CmJbvsGEyfni8Vk-1
 
 ## Built With
 
