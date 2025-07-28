@@ -1,47 +1,61 @@
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 # Loan Calculator App
 
-This project is a Loan Calculator App that allows users to easily calculate their monthly payment, total payment, and total interest by entering the loan amount, interest rate, and loan term.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
+A modern app to quickly and easily calculate your loans!
+
+## Table of Contents
+
+- Features
+- Screenshots
+- Installation
+- Usage
+- Contributing
+- Contact
 
 ## Features
 
-- Input fields for loan amount, interest rate, and loan term
+- Input loan amount, interest rate, and term period
 - Automatic calculation of monthly payment, total payment, and total interest
 - User-friendly and modern interface
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HuseyinKaanAkdeniz/Loan-Calculator-App.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd Loan-Calculator-App
-   ```
-3. Install the dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the application:
-   ```bash
-   flutter run
-   ```
-
 ## Screenshots
 
-![Ekran Görüntüsü](screenshot.png)
+![Screenshot](screenshot.png)
 
-## Built With
+## Installation
 
-- Dart
-- Flutter
+```bash
+# Clone the repository
+git clone https://github.com/HuseyinKaanAkdeniz/Loan-Calculator-App.git
+
+# Navigate to the project directory
+cd Loan-Calculator-App
+
+# Install dependencies
+flutter pub get
+
+# Run the application
+flutter run
+```
+Minimum Flutter SDK: 28
+
+## Usage
+
+After launching the app, simply enter the loan amount, interest rate, and term to quickly view your results.
 
 ## Contributing
 
-Contributions are welcome! Please create an issue before submitting a pull request.
+Contributions are welcome! Please open an issue to discuss your ideas before submitting a pull request.
 
-## License
+- Fork the project
+- Create a new branch (`git checkout -b your-feature`)
+- Commit your changes (`git commit -m 'Add some feature'`)
+- Push to the branch (`git push origin your-feature`)
+- Open a pull request
 
-This project is licensed under the MIT License.
+## Contact
+
+For more information: [simolexbusinnes@gmail.com](mailto:simolexbusinnes@gmail.com)  
+Development insights: [My Medium Profile](https://medium.com/@kaanakdeniz)
