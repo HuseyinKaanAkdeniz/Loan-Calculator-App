@@ -1,3 +1,5 @@
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 # Loan Calculator App
 
 This project is a Loan Calculator App that allows users to easily calculate their monthly payment, total payment, and total interest by entering the loan amount, interest rate, and loan term.
